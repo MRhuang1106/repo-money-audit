@@ -89,3 +89,7 @@ This project can be used as:
 ## Support
 
 If this tool saves you time, consider sponsoring the maintainer or requesting a paid repository review.
+
+## Paid Services
+
+Need help improving a GitHub repository for users, sponsors, or clients? See [SERVICES.md](SERVICES.md).
