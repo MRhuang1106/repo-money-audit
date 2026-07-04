@@ -93,3 +93,8 @@ If this tool saves you time, consider sponsoring the maintainer or requesting a 
 ## Paid Services
 
 Need help improving a GitHub repository for users, sponsors, or clients? See [SERVICES.md](SERVICES.md).
+
+## Free Audit Resources
+
+- [Free audit template](FREE_AUDIT_TEMPLATE.md)
+- [Reply templates](REPLY_TEMPLATES.md)
