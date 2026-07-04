@@ -1,0 +1,16 @@
+[project]
+name = "repo-money-audit"
+version = "0.1.0"
+description = "A small CLI that audits a GitHub repository for trust, adoption, and monetization readiness."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+keywords = ["github", "open-source", "sponsors", "repository-audit", "developer-tools"]
+authors = [{ name = "" }]
+
+[project.scripts]
+repo-money-audit = "repo_money_audit.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
